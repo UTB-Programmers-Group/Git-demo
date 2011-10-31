@@ -1,5 +1,9 @@
 Hello Git World.
 
+<<<<<<< HEAD
+=======
+World bye bye bye.
+>>>>>>> 176b152d3c6654857c40c72f5cb3ff8c7fd1e013
 
 Bye Git World.
 
